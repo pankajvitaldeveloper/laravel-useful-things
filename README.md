@@ -223,6 +223,7 @@ php artisan make:model Article -mc
 ```
 
 ---
-
+## ✅ URL OF LARAVEL
+https://www.youtube.com/playlist?list=PL97P2RbKWLQgoJAoBbX_NpTMbs896ggWG
 **Enjoy coding with Laravel 10 🚀**
 
